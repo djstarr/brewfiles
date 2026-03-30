@@ -1,4 +1,5 @@
 # device_serial_numbers: all
+brew "jq"
 brew "node"
 brew "python@3.12"
 cask "raycast"
