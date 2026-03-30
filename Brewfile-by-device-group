@@ -1,3 +1,0 @@
-# device_group_id: f248b3fa-d826-404c-9094-5478c66f79d9
-brew "awscli"
-brew "terraform"
