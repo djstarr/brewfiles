@@ -1,0 +1,5 @@
+# device_serial_numbers: all
+brew "git"
+brew "gh"
+cask "1password"
+cask "google-chrome"

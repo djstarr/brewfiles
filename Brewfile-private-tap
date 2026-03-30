@@ -1,0 +1,4 @@
+# device_serial_numbers: all
+tap "djstarr/mac-admin-tools", "https://github.com/djstarr/homebrew-mac-admin-tools.git"
+brew "djstarr/mac-admin-tools/default-browser"
+cask "djstarr/mac-admin-tools/swiftdialog"
