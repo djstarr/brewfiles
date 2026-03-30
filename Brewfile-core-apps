@@ -3,7 +3,7 @@ brew "git"
 brew "gh"
 cask "1password"
 cask "google-chrome"
-cask "zoom"
+cask "suspicious-package"
 
 
 
