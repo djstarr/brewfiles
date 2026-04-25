@@ -4,7 +4,7 @@ brew "gh"
 cask "1password"
 cask "google-chrome"
 cask "suspicious-package"
-
+cask "Firefox"
 
 
 
