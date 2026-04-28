@@ -2,8 +2,6 @@
 brew "mas"
 brew "node"
 brew "python@3.12"
-brew "yt-dlp"
-brew "ffmpeg"
 cask "claude-code"
 cask "raycast"
 cask "visual-studio-code"
